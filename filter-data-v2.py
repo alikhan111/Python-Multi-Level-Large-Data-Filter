@@ -4,7 +4,7 @@ import requests
 import io
 import re
 
-# Configuration
+# Configuration Setup
 BACKEND_URL = "http://your-backend-url:8000"  # Replace with your actual backend URL
 MAX_STREAMLIT_SIZE = 200 * 1024 * 1024  # 200MB
 
